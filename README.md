@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dyazpacalang99
-- 👀 I’m interested in Web Coding and Development
-- 🌱 I’m currently learning HTML, CSS, and JavaScript
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning HTML, CSS, JavaScript, Python, SQL, C++, Java.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
